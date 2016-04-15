@@ -1,0 +1,21 @@
+
+#main-content {
+	background-color: #FAFAD2;
+	border: 1px solid black;
+
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #EDFF01
+}
+
+body {
+  padding-top: 50px;
+}
+
+@media (max-width: 767px) {	
+	.navbar-inverse .navbar-collapse {
+		background-color: #800080; 
+	}
+}
